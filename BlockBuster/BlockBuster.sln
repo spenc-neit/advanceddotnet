@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockBuster", "BlockBuster\BlockBuster.csproj", "{381A2DF5-8B12-4684-ADC3-2BB4D48CB7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockbusterTest", "BlockbusterTest\BlockbusterTest.csproj", "{0C2ED2D2-8975-4537-97C6-6FF3DB8DF987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381A2DF5-8B12-4684-ADC3-2BB4D48CB7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381A2DF5-8B12-4684-ADC3-2BB4D48CB7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381A2DF5-8B12-4684-ADC3-2BB4D48CB7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381A2DF5-8B12-4684-ADC3-2BB4D48CB7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2ED2D2-8975-4537-97C6-6FF3DB8DF987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2ED2D2-8975-4537-97C6-6FF3DB8DF987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2ED2D2-8975-4537-97C6-6FF3DB8DF987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2ED2D2-8975-4537-97C6-6FF3DB8DF987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F6BE4C-EB1B-4FEC-BB6E-B9EA033C507E}
+	EndGlobalSection
+EndGlobal

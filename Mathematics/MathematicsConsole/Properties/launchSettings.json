@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MathematicsConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "Sqre 5"
+    }
+  }
+}
