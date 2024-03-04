@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Colors";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>List of colors</p>
+
+<ul>
+    @{
+        foreach(var color in ViewBag.colors)
+        {
+            <li>@color</li>
+        }
+    }
+</ul>
